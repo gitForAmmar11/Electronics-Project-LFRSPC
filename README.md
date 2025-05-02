@@ -3,28 +3,28 @@ LFRSPC is an Arduino-based robotic system designed to automatically clean solar 
 
 Key Features:
 
-    Arduino Uno-based control system
+    - Arduino Uno-based control system
 
-    Line-following capability using IR sensors
+    - Line-following capability using IR sensors
 
-    Cleaning mechanism integrated on the moving platform
+    - Cleaning mechanism integrated on the moving platform
 
-    Power-efficient and eco-friendly
+    - Power-efficient and eco-friendly
 
-    Designed for small to medium solar panel setups
+    - Designed for small to medium solar panel setups
 
 Tech Stack & Components:
 
-    Arduino Uno
+    - Arduino Uno
 
-    IR Sensors (for line following)
+    - IR Sensors (for line following)
 
-    DC Motors with Motor Driver (L298N)
+    - DC Motors with Motor Driver (L298N)
 
-    Cleaning Brush or Wiper
+    - Cleaning Brush or Wiper
 
-    Battery Pack
+    - Battery Pack
 
-    Chassis and wheels
+    - Chassis and wheels
 
-    Optional: LDR, OLED display, or solar charging unit
+    - Optional: LDR, OLED display, or solar charging unit
